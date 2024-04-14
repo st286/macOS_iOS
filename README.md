@@ -3,6 +3,10 @@
 <details>
 <summary> macOS </summary>
 
+[Check Disk Health on Mac with smartctl](https://www.smartmontools.org)
+
+[Zed editor](https://zed.dev)
+
 [mac-cleanup: A cleanup script for macOS](https://github.com/mac-cleanup/mac-cleanup-sh)
 
 [妙言--轻灵的 Markdown 笔记本](https://github.com/tw93/MiaoYan)
