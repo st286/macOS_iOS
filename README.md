@@ -3,15 +3,25 @@
 <details>
 <summary> macOS </summary>
 
-[Check Disk Health on Mac with smartctl](https://www.smartmontools.org)
+### [FFMPEG](https://ffmpeg.org)
 
-[Zed editor](https://zed.dev)
+[Download: Ffmpeg, ffprobe, ffplay](https://evermeet.cx/ffmpeg/)
 
-[mac-cleanup: A cleanup script for macOS](https://github.com/mac-cleanup/mac-cleanup-sh)
+[FFmpeg MP3 Encoding Guide](https://trac.ffmpeg.org/wiki/Encode/MP3)
 
-[妙言--轻灵的 Markdown 笔记本](https://github.com/tw93/MiaoYan)
+ Example to encode VBR MP3 audio with ffmpeg using the libmp3lame library:
 
-[macOS Ventura 13 优化配置（基于 ARM 平台）](https://www.sqlsec.com/2023/07/ventura.html)
+    ffmpeg -i input.wav -codec:a libmp3lame -qscale:a 2 output.mp3
+
+### [Check Disk Health on Mac with smartctl](https://www.smartmontools.org)
+
+### [Zed editor](https://zed.dev)
+
+### [mac-cleanup: A cleanup script for macOS](https://github.com/mac-cleanup/mac-cleanup-sh)
+
+### [妙言--轻灵的 Markdown 笔记本](https://github.com/tw93/MiaoYan)
+
+### [macOS Ventura 13 优化配置（基于 ARM 平台）](https://www.sqlsec.com/2023/07/ventura.html)
 
 
 </details>
