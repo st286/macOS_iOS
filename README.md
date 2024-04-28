@@ -1,3 +1,9 @@
+# < 1 > localsend
+
+[LocalSend](https://github.com/localsend/localsend)
+
+LocalSend is a free, open-source app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection.
+
 # macOS_iOS
 
 <details>
