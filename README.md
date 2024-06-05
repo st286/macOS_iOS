@@ -9,6 +9,15 @@ LocalSend is a free, open-source app that allows you to securely share files and
 <details>
 <summary> macOS </summary>
 
+## [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
+  [How to download an MP4 from YouTube](https://www.jeffgeerling.com/blog/2022/how-download-mp4-youtube-every-time)
+
+  Sorting Formats
+
+      yt-dlp_macos -S res,ext --recode mp4  URL
+
+
 ## [FFMPEG](https://ffmpeg.org)
 
 [Download: Ffmpeg, ffprobe, ffplay](https://evermeet.cx/ffmpeg/)
