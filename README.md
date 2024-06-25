@@ -11,6 +11,8 @@ LocalSend is a free, open-source app that allows you to securely share files and
 
 ## [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
+  [yt-dlp readme](https://github.com/yt-dlp/yt-dlp#readme)
+
   [How to download an MP4 from YouTube](https://www.jeffgeerling.com/blog/2022/how-download-mp4-youtube-every-time)
 
   Sorting Formats
