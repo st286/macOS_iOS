@@ -19,7 +19,19 @@
 
 </details>
 
+<details>
+<summary> sudo 免密设置 </summary>
+      
+    chmod u+w /etc/sudoers, sudo vim /etc/sudoers, chmod u-w /etc/sudoers
+    user    ALL = (ALL)NOPASSWD: ALL
 
+</details>
+
+
+<details>
+<summary> sudo 免密设置 </summary>
+
+</details>
 
 ---
 ---
