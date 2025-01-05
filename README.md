@@ -30,7 +30,7 @@
 # Media: video audio
 
 <details> 
-<summary> yt-dlp  ffmpeg </summary>
+<summary> yt-dlp and ffmpeg </summary>
   
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) 
 
@@ -45,12 +45,11 @@
 <summary> xx </summary>
 
 
-
 </details>
 
 ---
 ---
-# < 1 > localsend
+#  localsend
 
 [LocalSend](https://github.com/localsend/localsend)
 
