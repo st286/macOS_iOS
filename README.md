@@ -9,6 +9,10 @@
 
   [三：字符串处理之转义字符和格式化输出](https://linux.cn/article-8864-1.html)
 
+  [四：字符串处理之通配符](https://linux.cn/article-8883-1.html)
+
+  [五：数组](https://linux.cn/article-8896-1.html)
+
 </details>
 
 
