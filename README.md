@@ -13,6 +13,10 @@
 
   [五：数组](https://linux.cn/article-8896-1.html)
 
+  [六：哈希表](https://linux.cn/article-9017-1.html)
+
+  [七：数值计算](https://linux.cn/article-9068-1-rel.html)
+
 </details>
 
 
