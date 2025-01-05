@@ -1,7 +1,13 @@
 # [macOS Commands](https://ss64.com/mac/)
 
+<details>
+<summary> Zsh 开发指南 </summary>
 
+[(一）：变量和语句](https://linux.cn/article-8842-1.html)
 
+[（二）：字符串处理之常用操作](https://linux.cn/article-8846-1.html)
+
+</details>
 
 
 
