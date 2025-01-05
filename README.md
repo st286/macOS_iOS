@@ -29,7 +29,7 @@
 
 # Media: video audio
 
-<details> [yt-dlp](https://github.com/yt-dlp/yt-dlp) 
+<details> yt-dlp
 <summary> [yt-dlp](https://github.com/yt-dlp/yt-dlp) </summary>
 
 
