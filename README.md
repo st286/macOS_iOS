@@ -40,9 +40,11 @@
 
       yt-dlp_macos  -x  "URL"
       
-      for i in *.opus; do ffmpeg -i "$i" -f mp3 "${i%}.mp3"; done
+      for i in *.opus; do ffmpeg -i "$i" -f mp3 "${i:r}.mp3"; done
 
-      for i in *.opus; do ffmpeg -i "$i" -f ogg "${i%}.ogg"; done
+      for i in *.opus; do ffmpeg -i "$i" -f ogg "${i:r}.ogg"; done
+
+      ## on zsh shell
 
 </details>
 
