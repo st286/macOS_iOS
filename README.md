@@ -34,9 +34,15 @@
   
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) 
 
-
 [ffmpeg](https://www.ffmpeg.org)
 
+下载音频、转换为mp3、ogg:
+
+      yt-dlp_macos  -x  "URL"
+      
+      for i in *.opus; do ffmpeg -i "$i" -f mp3 "${i%}.mp3"; done
+
+      for i in *.opus; do ffmpeg -i "$i" -f ogg "${i%}.ogg"; done
 
 </details>
 
