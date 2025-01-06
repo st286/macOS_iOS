@@ -1,6 +1,12 @@
 # [macOS Commands](https://ss64.com/mac/)
 
 <details>
+<summary> zsh开发指南(https://github.com/goreliu/zshguide) </summary>
+[ zsh开发指南|| zshguide's documentation ](https://github.com/goreliu/zshguide)
+</details>
+
+
+<details>
 <summary> Zsh 开发指南 </summary>
 
   [一：变量和语句](https://linux.cn/article-8842-1.html)
