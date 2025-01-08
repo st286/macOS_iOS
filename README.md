@@ -2,6 +2,8 @@
 
 <details>
 <summary> zsh开发指南(https://github.com/goreliu/zshguide) </summary>
+
+[Z shell](https://zsh.sourceforge.io)
   
 [ zsh开发指南|| zshguide's documentation ](https://github.com/goreliu/zshguide)
 
