@@ -1,7 +1,7 @@
 # [macOS Commands](https://ss64.com/mac/)
 
 <details>
-<summary> zsh开发指南(https://github.com/goreliu/zshguide) </summary>
+<summary> Zsh shell </summary>
 
 [Z shell](https://zsh.sourceforge.io)
   
