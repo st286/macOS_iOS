@@ -60,8 +60,9 @@
 
 
 <details>
-<summary> xx </summary>
+<summary> HandBrake -- the open source video transcoder </summary>
 
+[HandBrake](https://handbrake.fr)
 
 </details>
 
