@@ -56,6 +56,13 @@
 
       ## on zsh shell
 
+从视频中提取音频:
+
+     ffmpeg -i *.mp4 -vn -f opus *.opus
+     # -vn : video not; -f : format; -i : input
+     ffmpeg -i *.mp4
+     # display information
+
 </details>
 
 
