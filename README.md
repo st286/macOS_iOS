@@ -1,3 +1,6 @@
+[kd -- Go语言实现的简洁好用的命令行词典](https://github.com/Karmenzind/kd)
+
+
 [macOS 应用流量通过代理的多种方式](https://learnku.com/articles/43765)
 
 # [macOS Commands](https://ss64.com/mac/)
