@@ -1,3 +1,6 @@
+[Karabiner-Elements:
+A powerful and stable keyboard customizer for macOS.](https://karabiner-elements.pqrs.org)
+
 [法国程序员Fabrice Bellard](https://bellard.org)
 
 [kd -- Go语言实现的简洁好用的命令行词典](https://github.com/Karmenzind/kd)
