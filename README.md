@@ -1,17 +1,17 @@
 # [输入法]()
 
-### [RIME | 中州韻輸入法引擎簡 | 鼠鬚管 ](https://rime.im)
-
 ### [雾凇拼音](https://github.com/iDvel/rime-ice)
 
 ```
 # cd ~/Library
 git clone https://github.com/iDvel/rime-ice.git Rime --depth 1
-
 # 更新
 cd Rime
 git pull
 ```
+### [rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian)
+
+### [RIME | 中州韻輸入法引擎簡 | 鼠鬚管 ](https://rime.im)
 
 # [BB]()
 
