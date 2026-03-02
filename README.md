@@ -1,4 +1,10 @@
-## [RIME | 中州韻輸入法引擎簡 | 鼠鬚管 ](https://rime.im)
+# [输入法]()
+
+### [RIME | 中州韻輸入法引擎簡 | 鼠鬚管 ](https://rime.im)
+
+### [雾凇拼音](https://github.com/iDvel/rime-ice)
+
+# [BB]()
 
 [Karabiner-Elements:
 A powerful and stable keyboard customizer for macOS.](https://karabiner-elements.pqrs.org)
