@@ -1,3 +1,5 @@
+## [RIME | 中州韻輸入法引擎簡 | 鼠鬚管 ](https://rime.im)
+
 [Karabiner-Elements:
 A powerful and stable keyboard customizer for macOS.](https://karabiner-elements.pqrs.org)
 
