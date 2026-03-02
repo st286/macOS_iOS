@@ -4,6 +4,15 @@
 
 ### [雾凇拼音](https://github.com/iDvel/rime-ice)
 
+```
+# cd ~/Library
+git clone https://github.com/iDvel/rime-ice.git Rime --depth 1
+
+# 更新
+cd Rime
+git pull
+```
+
 # [BB]()
 
 [Karabiner-Elements:
