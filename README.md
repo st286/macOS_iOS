@@ -1,3 +1,14 @@
+# [sudo命令时免输密码: 通过 Touch ID 来授权 sudo]()
+
+从 macOS Sonoma (14.0) 开始，Apple 引入了更持久的配置方式： 
+
+持久性增强：以前直接修改 /etc/pam.d/sudo 会在系统更新后被重置。现在建议修改 /etc/pam.d/sudo_local（添加下面一行内容, 可参考同目录下的 .template 文件），该文件中的配置在系统升级后依然有效。
+
+环境限制：Touch ID 授权主要针对本地终端。如果你通过 SSH 远程登录，或者在 tmux 等终端复用器中使用，指纹验证通常无法直接传递，可能需要额外安装 pam_reattach 插件才能正常工作。 
+```
+auth       sufficient     pam_tid.so
+```
+
 # [输入法]()
 
 ### [雾凇拼音](https://github.com/iDvel/rime-ice)
