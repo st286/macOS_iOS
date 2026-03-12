@@ -11,6 +11,8 @@ auth       sufficient     pam_tid.so
 
 # [输入法]()
 
+### [清歌输入法](https://qingg.im)
+
 ### [雾凇拼音](https://github.com/iDvel/rime-ice)
 
 ```
