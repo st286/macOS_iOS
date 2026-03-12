@@ -13,6 +13,11 @@ auth       sufficient     pam_tid.so
 
 ### [清歌输入法](https://qingg.im)
 
+卸载步骤
+
+1、删除 /Library/Input Methods/Qingg.app 文件
+2、删除 ~/Library/Application Support/Qingg/ 文件夹
+
 ### [雾凇拼音](https://github.com/iDvel/rime-ice)
 
 ```
