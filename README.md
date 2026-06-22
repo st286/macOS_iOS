@@ -1,6 +1,8 @@
 ## [Homebrew -- The Package Manager for Everywhere](https://brew.sh)
 
+
 ## [Download anything -- Free Download Manager](https://www.freedownloadmanager.org)
+
 
 ## [sudo命令时免输密码: 通过 Touch ID 来授权 sudo]()
 
