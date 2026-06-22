@@ -1,4 +1,6 @@
-# [sudo命令时免输密码: 通过 Touch ID 来授权 sudo]()
+## [Homebrew -- The Package Manager for Everywhere](https://brew.sh)
+
+## [sudo命令时免输密码: 通过 Touch ID 来授权 sudo]()
 
 从 macOS Sonoma (14.0) 开始，Apple 引入了更持久的配置方式： 
 
