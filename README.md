@@ -1,7 +1,33 @@
 
-# apple container
+# [apple container](https://github.com/apple/container)
 <details>
 <summary> container </summary>
+
+A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
+
+### Initial install
+
+```
+container system start
+
+container system stop
+
+container ls -a (--all)
+
+container run -it --name debian-box -v /Users/你的用户名:/workspace debian:latest bash
+## 注意： 记得把 你的用户名 改为你在 Mac 上的实际用户名。挂载后，你在 Mac 家目录里的代码和文件都会在 Debian 的 /workspace 目录中同步出现。
+
+container start debian-box
+## 新启动该 Debian 环境
+
+container exec -it debian-box bash
+## 再次进入它的终端
+
+container ls
+## 查看当前运行的虚拟机容器
+
+```
+
 
 
 
