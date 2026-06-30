@@ -61,6 +61,11 @@ echo 'export LC_ALL=zh_CN.UTF-8' >> ~/.bashrc
 . .bashrc
 ```
 
+### tools
+```
+apt install yt-dlp  ffmpeg
+```
+
 </details>
 
 
