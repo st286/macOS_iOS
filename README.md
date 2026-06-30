@@ -42,6 +42,24 @@ apt install -y iproute2  iputils-ping  dnsutils  net-tools  traceroute
 
 ```
 
+### 配置中文区域环境（Locale）
+```
+apt update && apt install -y locales
+
+sed -i '/zh_CN.UTF-8 UTF-8/s/^# //g' /etc/locale.gen
+locale-gen
+
+update-locale LANG=zh_CN.UTF-8
+
+apt install -y fonts-wqy-microhei
+
+
+echo 'export LANG=zh_CN.UTF-8' >> ~/.bashrc
+echo 'export LANGUAGE=zh_CN:zh' >> ~/.bashrc
+echo 'export LC_ALL=zh_CN.UTF-8' >> ~/.bashrc
+
+. .bashrc
+```
 
 </details>
 
