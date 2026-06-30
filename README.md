@@ -26,9 +26,21 @@ container exec -it debian-box bash
 container ls
 ## 查看当前运行的虚拟机容器
 
+# 更新 Debian 软件源
+apt update
+
+# 安装常用开发组件
+apt install -y curl wget vim git build-essential
+
 ```
 
+### 安装核心网络工具
 
+```
+apt install -y iproute2  iputils-ping  dnsutils  net-tools  traceroute
+## ip ping nslookup/dig ss/netstat  
+
+```
 
 
 </details>
