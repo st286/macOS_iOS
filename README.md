@@ -1,3 +1,13 @@
+
+# apple container
+<details>
+<summary> container </summary>
+
+
+
+</details>
+
+
 ## [Homebrew -- The Package Manager for Everywhere](https://brew.sh)
 
 ## [Mole -- Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.](https://github.com/tw93/Mole)
