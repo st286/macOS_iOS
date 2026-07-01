@@ -30,7 +30,7 @@ container ls
 apt update
 
 # 安装常用开发组件
-apt install -y curl wget vim git build-essential
+apt install -y curl wget vim git build-essential procps
 
 ```
 
