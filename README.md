@@ -58,6 +58,7 @@ echo 'export LANG=zh_CN.UTF-8' >> ~/.bashrc
 echo 'export LANGUAGE=zh_CN:zh' >> ~/.bashrc
 echo 'export LC_ALL=zh_CN.UTF-8' >> ~/.bashrc
 
+cd 
 . .bashrc
 ```
 
